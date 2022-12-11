@@ -1,0 +1,11 @@
+label_name,bbox_x,bbox_y,bbox_width,bbox_height,image_name,image_width,image_height
+car,172,193,167,62,vid_5_26580.jpg,676,380
+car,570,175,106,43,vid_5_26880.jpg,676,380
+car,59,191,152,56,vid_5_27500.jpg,676,380
+car,291,166,202,83,vid_5_27620.jpg,676,380
+car,456,169,126,56,vid_5_27840.jpg,676,380
+car,139,179,162,69,vid_5_27920.jpg,676,380
+car,2,191,145,56,vid_5_28260.jpg,676,380
+car,183,196,119,41,vid_5_31560.jpg,676,380
+car,410,176,182,69,vid_5_31700.jpg,676,380
+car,309,185,63,27,vid_5_420.jpg,676,380
